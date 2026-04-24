@@ -1,0 +1,6 @@
+room_id,session_id,room_name,timestamp,area_m2,dirt_spike_count,spike_intensity,brush_load,re_sweep_count,power_wh,dirt_score,cluster,profile,predicted_profile,wh_max,wh_used,savings_pct
+bed2,59,Bedroom 2,2026-04-24 00:15:16.629350,11,8,0.184,0.342,0,0.79,0.24,2,Light,Light,7.92,2.22,72
+bed3,59,Bedroom 3 Guest,2026-04-24 00:15:16.629350,10,19,0.259,0.146,0,0.72,0.267,2,Light,Light,7.199999999999999,2.02,72
+kitchen,59,Kitchen,2026-04-24 00:15:16.629350,9,35,0.801,0.378,0,0.61,0.577,0,Moderate,Moderate,6.4799999999999995,4.41,32
+living,59,Living Room,2026-04-24 00:15:16.629350,18,29,0.421,0.409,0,1.23,0.543,0,Moderate,Moderate,12.959999999999999,8.81,32
+master,59,Master Bedroom,2026-04-24 00:15:16.629350,14,29,0.252,0.413,0,1.03,0.38,0,Moderate,Moderate,10.08,6.85,32
